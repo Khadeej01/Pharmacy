@@ -21,7 +21,7 @@ public class ProductService {
     public Product addProduct(Product product) {
         return productRepository.save(product);
     }
-
+//Testt
     public Product updateProduct(Long id, Product updatedProduct) {
         Optional<Product> existingProduct = productRepository.findById(id);
         if (existingProduct.isPresent()) {
