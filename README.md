@@ -21,7 +21,7 @@ Postman: Tool for testing API endpoints.
 
 **. **Prerequisites
 
-Java 17 or higher
+Java 17 
 
 Maven
 
