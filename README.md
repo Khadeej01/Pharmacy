@@ -23,7 +23,7 @@ Postman: Tool for testing API endpoints.
 
 Java 17 or higher
 Maven
-MySQL or PostgreSQL installed and running
+MySQL  installed and running
 Postman for API testing
 
 **. ** Postman Test
